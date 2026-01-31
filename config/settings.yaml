@@ -1,0 +1,12 @@
+project:
+  name: "Simple DE Project"
+  version: "1.0"
+
+data:
+  input_path: "data/"
+  output_path: "output/"
+  file_format: "csv"
+
+logging:
+  level: "INFO"
+  log_file: "logs/etl.log"
