@@ -121,3 +121,6 @@ class SimpleETL:
 if __name__ == "__main__":
     etl = SimpleETL(input_path="data/", output_path="output/")
     etl.run()
+
+
+## this code is to be saved in scripts/etl.py
