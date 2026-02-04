@@ -1,1 +1,2 @@
-print("new changes")
+print("new changes: {}".format("new changes"))
+
