@@ -124,3 +124,7 @@ if __name__ == "__main__":
 
 
 ## this code is to be saved in scripts/etl.py
+
+
+### made small Chnages to logging messages for clarity
+
